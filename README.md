@@ -1,6 +1,10 @@
-# Battlecode 2020 Scaffold
+# Battlecode 2020 PDX Team One
 
-This is the Battlecode 2020 scaffold, containing an `pdx_team_one`. Read https://2020.battlecode.org/getting-started!
+This is a Java bot designed to compete in BattleCode 2020 for CS454 at Portland State by myself, Lauren Schneider, and Pratik Kadam. While this bot was built after the competition was over, we had the opportunity to compete against our classmates as well as Java Best Waifu, the national winner of the competition. 
+
+This bot consistenly topped the leaderboard in our class while beating Java Best Waifu around 55% of the time. While we had the luxury of being able to scout their matches after the tournament was over, I'm still very proud of creating a strategy that can beat the best team in the nation
+
+For more info and how to set up the project: https://2020.battlecode.org/getting-started!
 
 ### Project Structure
 
@@ -10,8 +14,6 @@ This is the Battlecode 2020 scaffold, containing an `pdx_team_one`. Read https:/
     The Gradle build file used to build and run players.
 - `src/`
     Player source code.
-- `test/`
-    Player test code.
 - `client/`
     Contains the client.
 - `build/`
